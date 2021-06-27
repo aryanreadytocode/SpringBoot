@@ -10,7 +10,7 @@ public class TestController {
 	
 	@RequestMapping("/test")
 	public String firstHandler() {
-		return "Just for testing!!";
+		return "This is my home page";
 	}
 
 }
